@@ -1,7 +1,5 @@
 export default function Home() {
     return (
-        <div>
-            llm-function-calling
-        </div>
+        <div> llm-function-calling </div>
     );
 }
